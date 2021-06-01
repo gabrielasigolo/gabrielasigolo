@@ -2,6 +2,9 @@
 
 <img src = "https://user-images.githubusercontent.com/69328848/120335537-ecad6880-c2c7-11eb-8a30-d2223decb65e.png"></img>
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielasigolo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasigolo)](https://github.com/gabrielasigolo/github-readme-stats)
+
 <h3> Entre em contato comigo: <h3> 
 <a href = "https://www.linkedin.com/in/gabriela-s%C3%ADgolo-b84768123/"><img  src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>"></img></a>
 <a href = "https://www.instagram.com/gabs_sigolo/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
@@ -14,9 +17,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielasigolo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasigolo)](https://github.com/gabrielasigolo/github-readme-stats)
 
 
 
