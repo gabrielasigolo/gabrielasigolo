@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielasigolo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasigolo)](https://github.com/gabrielasigolo/github-readme-stats)
+
 
 
 
