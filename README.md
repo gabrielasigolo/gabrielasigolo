@@ -14,3 +14,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gabrielasigolo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
