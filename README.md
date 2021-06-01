@@ -1,3 +1,3 @@
 Oii! Eu sou a Gabriela Sígolo.
 
-<img src="https://www.canva.com/design/DAEgJQHNh9g/uqnwK-U2aVfO3cNX2IMQsA/view?utm_content=DAEgJQHNh9g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> 
+<img src="![banner github](https://user-images.githubusercontent.com/69328848/120335537-ecad6880-c2c7-11eb-8a30-d2223decb65e.png)"> 
