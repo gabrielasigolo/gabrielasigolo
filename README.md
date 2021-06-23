@@ -1,4 +1,4 @@
-<h1> Oii! Eu sou a Gabriela, bem vindo ao meu GitHub! <h1>
+<h1> Hii! I'm Gabriela, welcome to my GitHub! <h1>
 
 <img src = "https://user-images.githubusercontent.com/69328848/120335537-ecad6880-c2c7-11eb-8a30-d2223decb65e.png"></img>
   
