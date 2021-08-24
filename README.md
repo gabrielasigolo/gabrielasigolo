@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></img>
 
-<td> <img width="250px" align="right" src="https://giphy.com/gifs/doctor-who-the-david-tennant-CP1AxXkLuUdFu" />  </td>
 
 
 
