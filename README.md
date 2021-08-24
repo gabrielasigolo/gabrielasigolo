@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></img>
 
-<iframe src="https://giphy.com/embed/uiWbpxrUnBYfHFAMmB" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/doctorwho-doctor-who-resolution-uiWbpxrUnBYfHFAMmB">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/uiWbpxrUnBYfHFAMmB" width="480" height="270" frameBorder="0" class="giphy-embed"></iframe>
 
 
 
