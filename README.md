@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></img>
-<div class="tenor-gif-embed" data-postid="3412050" data-share-method="host" data-aspect-ratio="1.01961" data-width="100%"><a href="https://tenor.com/view/tardis-nyan-tardis-nyan-gif-3412050">Nyan Tardis GIF</a>from <a href="https://tenor.com/search/tardis-gifs">Tardis GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 
 
