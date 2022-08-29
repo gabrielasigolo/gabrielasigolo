@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasigolo)](https://github.com/gabrielasigolo/github-readme-stats)
   
 <h3> Contact me: <h3> 
-<a href = "https://www.linkedin.com/in/gabriela-s%C3%ADgolo-b84768123/"><img  src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>"></img></a>
+<a href = "https://www.linkedin.com/in/gabriela-s%C3%ADgolo-b84768123/">LinkedIn</a>
 <a href = "https://www.instagram.com/gabs_sigolo/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <img align="right" width="180" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47g0lz52ud2dzijuljs1fwkxixxko8aeavmemu5eyn&rid=giphy.gif&ct=g"/>
 
