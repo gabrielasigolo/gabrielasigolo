@@ -1,8 +1,7 @@
 <h1> Hii! I'm Gabriela, welcome to my GitHub! <h1>
 
 <img src = "https://user-images.githubusercontent.com/69328848/120335537-ecad6880-c2c7-11eb-8a30-d2223decb65e.png"></img>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasigolo)](https://github.com/gabrielasigolo/github-readme-stats)
+ 
   
 <h3> Contact me: <h3> 
 <a href = "https://www.linkedin.com/in/gabriela-s%C3%ADgolo-b84768123/">LinkedIn</a>
